@@ -1,0 +1,8 @@
+{
+  "name": "HTML Wrapper",
+  "author": "jtyszkiew",
+  "description": "Extension that will wrap feed entries with div element containing helpful classes to apply custom per-feed-type styles/js.",
+  "version": "0.0.1",
+  "entrypoint": "HtmlWrapper",
+  "type": "user"
+}
